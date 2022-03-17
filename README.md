@@ -18,3 +18,5 @@ Note: this plugin requires Elementor Pro to unlock the Forms widget
 # Installation
 
 Download repo as a ZIP, upload to Wordpress via the Plugin Install tool
+
+Set your Site Key and Secret Key under Elementor -> Settings -> Integration -> hCaptcha
