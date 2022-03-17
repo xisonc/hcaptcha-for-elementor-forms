@@ -3,6 +3,8 @@ hCaptcha for Elementor Forms
 
 I was tired of Google's ReCAPTCHA failing to prevent spam on my WP / Elementor sites so I hacked this together.
 
+Note: this plugin requires Elementor Pro to unlock the Forms widget
+
 # Known Bugs
 
 1. This plugin uses a custom form element called 'hcaptcha', elementor pro hard codes some options based on element type to enable/disable options such as "Required", so the "Required" option must be toggled off when added to a form.
