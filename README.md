@@ -9,6 +9,6 @@ I was tired of Google's ReCAPTCHA failing to prevent spam on my WP / Elementor s
 
 2. This plugin does not support the themes or sizes that ReCAPTCHA supports, again, these options are hard coded to the field type in Elementor.
 
-3. There's an error that pops up if you have WP_DEBUG enabled.
+3. There's an error that pops up if you have WP_DEBUG enabled, I haven't bothered to look into it. If you know how to fix it please let me know.
 
 4. Probably some other stuff, I hacked this together in like 30 minutes.
