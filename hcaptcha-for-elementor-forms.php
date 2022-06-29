@@ -4,7 +4,7 @@
  * Description: Add hCaptcha to Elementor Forms
  * Author: xisonc
  * Author URI: https://github.com/xisonc/
- * Version: 1.0.0
+ * Version: 1.0.1
  * License: MIT
  * License URI: https://opensource.org/licenses/MIT
  */
