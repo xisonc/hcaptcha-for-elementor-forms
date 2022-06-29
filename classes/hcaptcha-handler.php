@@ -291,7 +291,8 @@ class Hcaptcha_Handler
 	public function __construct()
 	{
 		// register the JS API in WP
-		$this->register_scripts();
+		add_action( 'wp_enqueue_scripts', [ $this, 'register_scripts' ] );
+
 
 		// set everything up
 		add_filter( 'elementor_pro/forms/field_types', [ $this, 'add_field_type' ] );
